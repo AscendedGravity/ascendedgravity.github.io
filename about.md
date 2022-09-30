@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
+title: Who am I?
 permalink: /about
 ---
 
-## Who am I?
 ### Name
 Hey, I'm **Daniel** and if the URL above doesn't give it away my last name is **Spradau**. A weather nerd by day and just a nerd by night.
 
