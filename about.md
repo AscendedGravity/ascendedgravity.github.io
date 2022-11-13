@@ -18,5 +18,3 @@ I'm also into games of the *simulator* variety. Such as, Microsoft Flight Simula
 
 ### Past
 Previously I was an administrator for a very large [Minecraft](https://www.minecraft.net/en-us) community and did a lot of creative development for it. I also am a former Creative Contributor for [IdleLands](https://idle.land/).
-
-<a rel="me" href="https://masto.ai/@Ascended">Mastodon</a>
